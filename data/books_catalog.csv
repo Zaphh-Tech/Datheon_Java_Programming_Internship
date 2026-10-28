@@ -1,0 +1,5 @@
+isbn,title,author,genre,year,copies_available
+978-0134685991,Effective Java,Joshua Bloch,Technology,2018,4
+978-0596009205,Head First Java,Kathy Sierra,Technology,2005,2
+978-0132350884,Clean Code,Robert C. Martin,Software Engineering,2008,5
+978-0201633610,Design Patterns,Erich Gamma,Computer Science,1994,3
